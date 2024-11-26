@@ -1,1 +1,1 @@
-**Create a Simple iOS application. **
+**Create a Simple iOS application.**
